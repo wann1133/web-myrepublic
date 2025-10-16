@@ -1,0 +1,47 @@
+[
+  {
+    "name": "ENTERTAIN MAX",
+    "tagline": "Kombinasi internet cepat dan hiburan ultra HD",
+    "speed": "Up to 300 Mbps",
+    "upload_download": "1:1 Symmetric",
+    "quota": "Unlimited",
+    "fup": "Tanpa FUP",
+    "ip": "Dynamic IP",
+    "devices": "1-20 Devices",
+    "router": true,
+    "wiFi6": true,
+    "oldPrice": 1099000,
+    "newPrice": 589000,
+    "bestFor": ["Streaming 4K", "Family Entertainment", "Multi-TV"]
+  },
+  {
+    "name": "CINEMA PLUS",
+    "tagline": "Channel premium olahraga & film dengan STB Android 11",
+    "speed": "Up to 250 Mbps",
+    "upload_download": "1:1 Symmetric",
+    "quota": "Unlimited",
+    "fup": "Tanpa FUP",
+    "ip": "Dynamic IP",
+    "devices": "1-18 Devices",
+    "router": true,
+    "wiFi6": true,
+    "oldPrice": 999000,
+    "newPrice": 529000,
+    "bestFor": ["Disney+ Hotstar", "Olahraga 4K", "Kids Channel"]
+  },
+  {
+    "name": "FAMILY LITE",
+    "tagline": "Pilihan hemat untuk keluarga yang aktif streaming",
+    "speed": "Up to 200 Mbps",
+    "upload_download": "1:1 Symmetric",
+    "quota": "Unlimited",
+    "fup": "Tanpa FUP",
+    "ip": "Dynamic IP",
+    "devices": "1-15 Devices",
+    "router": true,
+    "wiFi6": false,
+    "oldPrice": 799000,
+    "newPrice": 429000,
+    "bestFor": ["Series & Movies", "Belajar Online", "Smart TV"]
+  }
+]

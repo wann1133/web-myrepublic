@@ -1,0 +1,47 @@
+[
+  {
+    "name": "BIZ CORE",
+    "tagline": "Solusi koneksi stabil untuk operasional harian UMKM",
+    "speed": "Up to 300 Mbps",
+    "upload_download": "1:1 Dedicated",
+    "quota": "Unlimited",
+    "fup": "Business Grade",
+    "ip": "Dual Stack IPv4/IPv6",
+    "devices": "1-40 Devices",
+    "router": true,
+    "wiFi6": true,
+    "oldPrice": 1299000,
+    "newPrice": 699000,
+    "bestFor": ["POS Cloud", "Video Conference", "Security CCTV"]
+  },
+  {
+    "name": "BIZ PRIORITY",
+    "tagline": "Bandwidth prioritas dengan SLA 99.95% dan IP statik",
+    "speed": "Up to 500 Mbps",
+    "upload_download": "1:1 Dedicated",
+    "quota": "Unlimited",
+    "fup": "Business Grade",
+    "ip": "Static IPv4 + IPv6",
+    "devices": "1-80 Devices",
+    "router": true,
+    "wiFi6": true,
+    "oldPrice": 1899000,
+    "newPrice": 999000,
+    "bestFor": ["Hybrid Workforce", "VoIP", "Cloud Backup"]
+  },
+  {
+    "name": "BIZ ENTERPRISE",
+    "tagline": "Konektivitas premium dengan monitoring dan NOC dedicated",
+    "speed": "Up to 1 Gbps",
+    "upload_download": "1:1 Dedicated",
+    "quota": "Unlimited",
+    "fup": "Enterprise Grade",
+    "ip": "Static IPv4 / IPv6",
+    "devices": "50-150 Devices",
+    "router": true,
+    "wiFi6": true,
+    "oldPrice": 2899000,
+    "newPrice": 1599000,
+    "bestFor": ["Data Center Access", "Branch Network", "Mission Critical Apps"]
+  }
+]

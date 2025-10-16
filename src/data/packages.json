@@ -1,0 +1,62 @@
+[
+  {
+    "name": "GAMER",
+    "tagline": "Latency rendah untuk kemenangan kompetitif",
+    "speed": "Up to 500 Mbps",
+    "upload_download": "1:1 Symmetric",
+    "quota": "Unlimited",
+    "fup": "Tanpa FUP",
+    "ip": "Static IPv4",
+    "devices": "1-35 Devices",
+    "router": true,
+    "wiFi6": true,
+    "oldPrice": 899000,
+    "newPrice": 479000,
+    "bestFor": ["Esports", "Streaming 4K", "Smart Home"]
+  },
+  {
+    "name": "NOVA",
+    "tagline": "Paket populer untuk keluarga digital",
+    "speed": "Up to 300 Mbps",
+    "upload_download": "1:1 Symmetric",
+    "quota": "Unlimited",
+    "fup": "Tanpa FUP",
+    "ip": "Dynamic IP",
+    "devices": "1-25 Devices",
+    "router": true,
+    "wiFi6": true,
+    "oldPrice": 799000,
+    "newPrice": 399000,
+    "bestFor": ["Streaming 4K", "WFO Hybrid", "Smart Learning"]
+  },
+  {
+    "name": "FAST",
+    "tagline": "Internet gesit untuk kebutuhan harian",
+    "speed": "Up to 150 Mbps",
+    "upload_download": "1:1 Symmetric",
+    "quota": "Unlimited",
+    "fup": "Tanpa FUP",
+    "ip": "Dynamic IP",
+    "devices": "1-15 Devices",
+    "router": true,
+    "wiFi6": false,
+    "oldPrice": 599000,
+    "newPrice": 289000,
+    "bestFor": ["Streaming HD", "Meeting Online", "Gaming Casual"]
+  },
+  {
+    "name": "NIMBUS",
+    "tagline": "Premium untuk usaha kecil & kreator konten",
+    "speed": "Up to 1 Gbps",
+    "upload_download": "1:1 Symmetric",
+    "quota": "Unlimited",
+    "fup": "Tanpa FUP",
+    "ip": "Dual Stack IPv4/IPv6",
+    "devices": "1-50 Devices",
+    "router": true,
+    "wiFi6": true,
+    "oldPrice": 1399000,
+    "newPrice": 699000,
+    "bestFor": ["Creative Studio", "Video Upload 8K", "IoT Business"]
+  }
+]
